@@ -1,1 +1,4 @@
-- Analyzed  data to determine if any of the portfolios outperform the stock market (the S&P 500)
+- Used Pandas to clean several CSV files
+- Calculated and plotted daily returns of each portfolio
+- Conducted risk analisys to find which portfolios were riskier than the S&P500
+- Calcualted rolling statistics and Sharpe ratios
